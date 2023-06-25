@@ -5,10 +5,10 @@ with open("README.md","r",encoding='utf-8') as f:
 
 __version__= "0.0.0"
 
-REPO_NAME="cnn_classifier"
+REPO_NAME="text"
 
 AUTHOR_USER_NAME="jyotsana700"
-SRC_REPO="cnn_classifier"
+SRC_REPO="text Summarizer"
 
 AUTHOR_EMAIL="jenikunwar17@gmail.com"
 
